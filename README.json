@@ -19,7 +19,7 @@
             "last_commit": "2025-06-17T14:47:31Z",
             "owner": "openai",
             "repo": "openai-openapi",
-            "stars": 2318
+            "stars": 2319
           }
         },
         {
@@ -1024,7 +1024,7 @@
             "last_commit": "2025-11-12T21:31:16Z",
             "owner": "Zulu-Inuoe",
             "repo": "jzon",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -1522,7 +1522,7 @@
             "last_commit": "2026-01-27T22:26:52Z",
             "owner": "atgreen",
             "repo": "rewrite-cl",
-            "stars": 15
+            "stars": 16
           }
         }
       ],
@@ -2132,10 +2132,10 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-02-07T06:01:43Z",
+            "last_commit": "2026-02-07T16:48:46Z",
             "owner": "coalton-lang",
             "repo": "coalton",
-            "stars": 1523
+            "stars": 1524
           }
         },
         {
@@ -3258,7 +3258,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-02-05T20:48:41Z",
+                "last_commit": "2026-02-07T23:26:14Z",
                 "owner": "jscl-project",
                 "repo": "jscl",
                 "stars": 943
@@ -3271,7 +3271,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-02-05T20:48:41Z",
+                "last_commit": "2026-02-07T23:26:14Z",
                 "owner": "jscl-project",
                 "repo": "jscl",
                 "stars": 943
@@ -3301,7 +3301,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-02-05T20:48:41Z",
+            "last_commit": "2026-02-07T23:26:14Z",
             "owner": "jscl-project",
             "repo": "jscl",
             "stars": 943
@@ -3606,7 +3606,7 @@
             "last_commit": "2024-06-08T21:51:36Z",
             "owner": "sionescu",
             "repo": "iolib",
-            "stars": 151
+            "stars": 152
           }
         }
       ],
@@ -5030,7 +5030,7 @@
             "last_commit": "2026-02-07T00:41:48Z",
             "owner": "atgreen",
             "repo": "icl",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -5928,7 +5928,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-02-07T02:26:06Z",
+            "last_commit": "2026-02-07T10:10:54Z",
             "owner": "ocicl",
             "repo": "ocicl",
             "stars": 272
@@ -6279,10 +6279,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T06:56:10.791Z",
+    "last_updated": "2026-02-08T04:35:02.067Z",
     "original_repository": "CodyReichert/awesome-cl",
     "source_repository": "v1nvn/enhansome-cl",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Contributing"
   }
 }
