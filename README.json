@@ -19,7 +19,7 @@
             "last_commit": "2025-06-17T14:47:31Z",
             "owner": "openai",
             "repo": "openai-openapi",
-            "stars": 2336
+            "stars": 2335
           }
         },
         {
@@ -91,7 +91,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-03-10T19:59:52Z",
+            "last_commit": "2026-03-11T20:36:46Z",
             "owner": "cl-ai-project",
             "repo": "cl-mcp",
             "stars": 44
@@ -1372,7 +1372,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2025-12-22T01:01:31Z",
+            "last_commit": "2026-03-12T03:39:46Z",
             "owner": "byulparan",
             "repo": "cl-nextstep",
             "stars": 45
@@ -2124,10 +2124,10 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-03-11T02:04:27Z",
+            "last_commit": "2026-03-12T03:23:32Z",
             "owner": "coalton-lang",
             "repo": "coalton",
-            "stars": 1541
+            "stars": 1543
           }
         },
         {
@@ -4597,7 +4597,7 @@
             "last_commit": "2026-02-18T12:47:06Z",
             "owner": "dnaeon",
             "repo": "clingon",
-            "stars": 153
+            "stars": 154
           }
         },
         {
@@ -4610,7 +4610,7 @@
             "last_commit": "2024-06-19T08:45:52Z",
             "owner": "sjl",
             "repo": "adopt",
-            "stars": 33
+            "stars": 34
           }
         }
       ],
@@ -4889,7 +4889,7 @@
             "last_commit": "2025-12-12T00:00:07Z",
             "owner": "joaotavora",
             "repo": "sly",
-            "stars": 1393
+            "stars": 1395
           }
         }
       ],
@@ -5102,7 +5102,7 @@
             "last_commit": "2026-03-07T15:05:49Z",
             "owner": "atgreen",
             "repo": "icl",
-            "stars": 155
+            "stars": 156
           }
         },
         {
@@ -5725,7 +5725,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-03-09T14:42:10Z",
+            "last_commit": "2026-03-11T16:19:31Z",
             "owner": "melisgl",
             "repo": "mgl-pax",
             "stars": 89
@@ -6085,7 +6085,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-03-11T01:08:02Z",
+            "last_commit": "2026-03-12T03:24:11Z",
             "owner": "fukamachi",
             "repo": "mallet",
             "stars": 72
@@ -6449,7 +6449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:12:06.959Z",
+    "last_updated": "2026-03-12T04:16:29.944Z",
     "original_repository": "CodyReichert/awesome-cl",
     "source_repository": "v1nvn/enhansome-cl",
     "source_repository_description": null,
