@@ -19,7 +19,7 @@
             "last_commit": "2025-06-17T14:47:31Z",
             "owner": "openai",
             "repo": "openai-openapi",
-            "stars": 2341
+            "stars": 2342
           }
         },
         {
@@ -310,7 +310,7 @@
             "last_commit": "2022-07-06T17:51:05Z",
             "owner": "aimacode",
             "repo": "aima-lisp",
-            "stars": 432
+            "stars": 433
           }
         },
         {
@@ -1955,7 +1955,7 @@
             "last_commit": "2024-04-15T02:26:08Z",
             "owner": "nikodemus",
             "repo": "screamer",
-            "stars": 250
+            "stars": 251
           }
         },
         {
@@ -2110,6 +2110,19 @@
             },
             {
               "children": [],
+              "description": "shows type signatures. With a short demo video.",
+              "title": "Slime contrib for Coalton",
+              "repo_info": {
+                "archived": false,
+                "language": "Common Lisp",
+                "last_commit": "2026-03-25T01:10:35Z",
+                "owner": "slime",
+                "repo": "slime",
+                "stars": 2038
+              }
+            },
+            {
+              "children": [],
               "description": "a web-based REPL for Coalton. .",
               "title": "Coalton.app playground"
             },
@@ -2127,7 +2140,7 @@
             "last_commit": "2026-03-25T04:03:27Z",
             "owner": "coalton-lang",
             "repo": "coalton",
-            "stars": 1557
+            "stars": 1558
           }
         },
         {
@@ -2486,7 +2499,7 @@
             "last_commit": "2026-02-16T14:10:18Z",
             "owner": "azzamsa",
             "repo": "awesome-lisp-companies",
-            "stars": 641
+            "stars": 640
           }
         },
         {
@@ -2675,7 +2688,7 @@
             "last_commit": "2026-02-10T20:49:31Z",
             "owner": "fukamachi",
             "repo": "clack",
-            "stars": 1099
+            "stars": 1100
           }
         },
         {
@@ -2993,7 +3006,7 @@
             "last_commit": "2025-12-09T18:41:47Z",
             "owner": "rabbibotton",
             "repo": "clog",
-            "stars": 1728
+            "stars": 1729
           }
         },
         {
@@ -3569,7 +3582,7 @@
             "last_commit": "2026-02-23T15:46:40Z",
             "owner": "usocket",
             "repo": "usocket",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -3640,7 +3653,7 @@
             "last_commit": "2024-06-08T21:51:36Z",
             "owner": "sionescu",
             "repo": "iolib",
-            "stars": 152
+            "stars": 153
           }
         }
       ],
@@ -4548,7 +4561,7 @@
             "last_commit": "2026-01-16T15:32:43Z",
             "owner": "ciel-lang",
             "repo": "CIEL",
-            "stars": 410
+            "stars": 409
           }
         },
         {
@@ -4635,7 +4648,7 @@
             "last_commit": "2026-03-25T03:29:29Z",
             "owner": "atgreen",
             "repo": "cl-tuition",
-            "stars": 131
+            "stars": 132
           }
         },
         {
@@ -4793,15 +4806,7 @@
         {
           "children": [],
           "description": "a POSIX-like shell in Common Lisp. .",
-          "title": "shcl",
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2021-05-11T07:03:39Z",
-            "owner": "SquircleSpace",
-            "repo": "shcl",
-            "stars": 337
-          }
+          "title": "shcl"
         },
         {
           "children": [
@@ -4870,7 +4875,7 @@
             "last_commit": "2026-03-25T01:10:35Z",
             "owner": "slime",
             "repo": "slime",
-            "stars": 2037
+            "stars": 2038
           }
         },
         {
@@ -4889,7 +4894,7 @@
             "last_commit": "2025-12-12T00:00:07Z",
             "owner": "joaotavora",
             "repo": "sly",
-            "stars": 1396
+            "stars": 1398
           }
         }
       ],
@@ -5102,7 +5107,7 @@
             "last_commit": "2026-03-24T11:49:03Z",
             "owner": "atgreen",
             "repo": "icl",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -5252,7 +5257,7 @@
                 "last_commit": "2026-02-16T14:10:18Z",
                 "owner": "azzamsa",
                 "repo": "awesome-lisp-companies",
-                "stars": 641
+                "stars": 640
               }
             }
           ],
@@ -5264,7 +5269,7 @@
             "last_commit": "2026-02-16T14:10:18Z",
             "owner": "azzamsa",
             "repo": "awesome-lisp-companies",
-            "stars": 641
+            "stars": 640
           }
         },
         {
@@ -5725,7 +5730,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-03-21T11:32:00Z",
+            "last_commit": "2026-03-25T13:26:19Z",
             "owner": "melisgl",
             "repo": "mgl-pax",
             "stars": 89
@@ -5953,7 +5958,7 @@
             "last_commit": "2026-01-05T20:43:43Z",
             "owner": "fosskers",
             "repo": "filepaths",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -6449,7 +6454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T04:23:34.693Z",
+    "last_updated": "2026-03-26T04:34:53.507Z",
     "original_repository": "CodyReichert/awesome-cl",
     "source_repository": "v1nvn/enhansome-cl",
     "source_repository_description": null,
