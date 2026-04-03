@@ -265,7 +265,7 @@
             "last_commit": "2025-11-10T19:11:11Z",
             "owner": "youngde811",
             "repo": "Lisa",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -1440,7 +1440,7 @@
                 "last_commit": "2024-08-11T10:12:51Z",
                 "owner": "digikar99",
                 "repo": "py4cl2",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -2097,7 +2097,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Common Lisp",
-                "last_commit": "2026-04-02T02:46:21Z",
+                "last_commit": "2026-04-02T22:43:59Z",
                 "owner": "Jason94",
                 "repo": "coalton-io",
                 "stars": 14
@@ -2137,10 +2137,10 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-04-01T23:48:34Z",
+            "last_commit": "2026-04-02T05:54:39Z",
             "owner": "coalton-lang",
             "repo": "coalton",
-            "stars": 1559
+            "stars": 1561
           }
         },
         {
@@ -2714,7 +2714,7 @@
             "last_commit": "2026-03-21T12:50:57Z",
             "owner": "fukamachi",
             "repo": "woo",
-            "stars": 1366
+            "stars": 1367
           }
         }
       ],
@@ -4648,7 +4648,7 @@
             "last_commit": "2026-04-01T23:58:37Z",
             "owner": "atgreen",
             "repo": "cl-tuition",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -4891,10 +4891,10 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2025-12-12T00:00:07Z",
+            "last_commit": "2026-04-02T22:49:12Z",
             "owner": "joaotavora",
             "repo": "sly",
-            "stars": 1399
+            "stars": 1400
           }
         }
       ],
@@ -6090,7 +6090,7 @@
           "repo_info": {
             "archived": false,
             "language": "Common Lisp",
-            "last_commit": "2026-03-28T10:55:59Z",
+            "last_commit": "2026-04-03T01:16:39Z",
             "owner": "fukamachi",
             "repo": "mallet",
             "stars": 76
@@ -6454,7 +6454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:31:59.980Z",
+    "last_updated": "2026-04-03T04:32:24.668Z",
     "original_repository": "CodyReichert/awesome-cl",
     "source_repository": "v1nvn/enhansome-cl",
     "source_repository_description": null,
