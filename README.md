@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,414 | 🐛 66 | 📅 2026-04-19 [![Assertible status](https://assertible.com/apis/102e334d-f9a8-4565-9353-7572de775cae/status?api_token=8b55a286830323effb)](https://assertible.com/docs/guide/deployments) with stars
+# Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,701 | 🐛 68 | 📅 2026-04-19 [![Assertible status](https://assertible.com/apis/102e334d-f9a8-4565-9353-7572de775cae/status?api_token=8b55a286830323effb)](https://assertible.com/docs/guide/deployments) with stars
 
 A curated list of *awesome* Common Lisp libraries.
 
@@ -21,7 +21,7 @@ Spinneret over Cl-Who.
 ***
 
 For a list of *software*, see the [lisp-screenshots.org](https://www.lisp-screenshots.org/) gallery and the
-[awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) ⭐ 382 | 🐛 2 | 📅 2026-04-08 list.
+[awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) ⭐ 383 | 🐛 2 | 📅 2026-04-24 list.
 
 For examples of *companies* using CL in production, see [lisp-lang.org's success stories](http://lisp-lang.org/success/),
 the [awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies/) ⭐ 645 | 🐛 5 | 📅 2026-04-07 list,
@@ -171,6 +171,7 @@ sellers who aren't evil for physical resources.
   * [Eclipse](#eclipse)
   * [Lem](#lem)
   * [LispWorks](#lispworks)
+  * [Mine - single-download beginner friendly IDE for Common Lisp and Coalton](#mine---single-download-beginner-friendly-ide-for-common-lisp-and-coalton)
   * [Atom, Pulsar](#atom-pulsar)
   * [Sublime Text](#sublime-text)
   * [VSCode](#vscode)
@@ -217,7 +218,7 @@ sellers who aren't evil for physical resources.
 
 * [openai-openapi-client](https://codeberg.org/kilianmh/openai-openapi-client) - semi-automatically generated Openapi client updated frequently from the [official Openapi specification](https://github.com/openai/openai-openapi/blob/master/openapi.yaml) ⭐ 2,366 | 🐛 134 | 📅 2025-06-17. AGPL-3.
   * available on Ultralisp.
-* [cl-completions](https://github.com/atgreen/cl-completions) ⭐ 32 | 🐛 1 | 🌐 Common Lisp | 📅 2026-03-31 - LLM completions.
+* [cl-completions](https://github.com/atgreen/cl-completions) ⭐ 33 | 🐛 1 | 🌐 Common Lisp | 📅 2026-03-31 - LLM completions.
   * makes it easy to create GPT functions in Common Lisp.
   * Ollama support.
 * [cl-embeddings](https://github.com/atgreen/cl-embeddings) ⭐ 14 | 🐛 0 | 🌐 Common Lisp | 📅 2024-04-06 - LLM embeddings.
@@ -312,7 +313,7 @@ bindings and clients to other software and libraries:
 * [cl-openal](https://github.com/zkat/cl-openal) ⭐ 37 | 🐛 1 | 🌐 Common Lisp | 📅 2023-07-09 - bindings for the OpenAL audio library. Public domain.
 * [cl-mpg123](https://github.com/Shirakumo/cl-mpg123) ⚠️ Archived, [cl-opus](https://github.com/Shirakumo/cl-opus) ⚠️ Archived (OGG/Opus), [cl-vorbis](https://github.com/Shirakumo/cl-vorbis) ⚠️ Archived (OGG/Vorbis), [cl-SoLoud](https://github.com/Shirakumo/cl-soloud) ⚠️ Archived, [cl-out123](https://github.com/Shirakumo/cl-out123) ⚠️ Archived (libout123), [cl-flac](https://github.com/Shirakumo/cl-flac) ⚠️ Archived
 
-and more audio software targetting musicians on [awesome-cl-software#audio](https://github.com/CodyReichert/awesome-cl#audio) ⭐ 2,927 | 🐛 46 | 🌐 Makefile | 📅 2026-04-16 (Opus Modus, OpenMusic…).
+and more audio software targetting musicians on [awesome-cl-software#audio](https://github.com/CodyReichert/awesome-cl#audio) ⭐ 2,927 | 🐛 46 | 🌐 Makefile | 📅 2026-04-24 (Opus Modus, OpenMusic…).
 
 # Build Systems
 
@@ -457,7 +458,7 @@ and also:
 
 ## Tools
 
-* ⭐ [pgloader](https://github.com/dimitri/pgloader) ⭐ 6,398 | 🐛 466 | 🌐 Common Lisp | 📅 2025-06-04 - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
+* ⭐ [pgloader](https://github.com/dimitri/pgloader) ⭐ 6,399 | 🐛 466 | 🌐 Common Lisp | 📅 2025-06-04 - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
   * obligatory blog post: [Why is pgloader so much faster?](https://tapoueh.org/blog/2014/05/why-is-pgloader-so-much-faster/) (hint: it was re-written from Python to Common Lisp)
 
 # Data Formats
@@ -509,7 +510,7 @@ and search for JSON RPC below.
 ## TOML
 
 * [parcom/toml](https://github.com/fosskers/parcom) ⭐ 85 | 🐛 0 | 🌐 Common Lisp | 📅 2025-11-16 - An extension to `parcom` for simple, no-dependency TOML parsing.
-* [clop](https://github.com/sheepduke/clop) ⭐ 24 | 🐛 0 | 🌐 Common Lisp | 📅 2022-02-06 - A 1.0-compliant TOML parser.
+* [clop](https://github.com/sheepduke/clop) ⭐ 25 | 🐛 0 | 🌐 Common Lisp | 📅 2022-02-06 - A 1.0-compliant TOML parser.
 
 ## XML
 
@@ -655,7 +656,7 @@ In development:
 
 See also those libraries:
 
-* NEW! in 2025 [clj-coll](https://github.com/dtenny/clj-coll) ⭐ 79 | 🐛 0 | 🌐 Common Lisp | 📅 2025-09-21 -  Clojure collection and sequence APIs in Common Lisp, with optional Clojure collection syntax. [Eclipse][209].
+* NEW! in 2025 [clj-coll](https://github.com/dtenny/clj-coll) ⭐ 80 | 🐛 0 | 🌐 Common Lisp | 📅 2025-09-21 -  Clojure collection and sequence APIs in Common Lisp, with optional Clojure collection syntax. [Eclipse][209].
   * provides immutable Cons, Queue, PersistentList, capabilities as well as Vector, Set, and Map analogues built on FSet (but accessed entirely via Clojure APIs).
   * optional read syntax so you can type `{:a 1 :b 2}`, `#{1 2 3}`, and `[1 2 3]`.
 * [clj-con](https://github.com/dtenny/clj-con) ⭐ 46 | 🐛 0 | 🌐 Common Lisp | 📅 2024-06-01 - Clojure-style concurrency operations in Common Lisp. [MIT][200].
@@ -687,7 +688,7 @@ See also:
 ## Python
 
 * [py4cl](https://github.com/bendudson/py4cl) ⭐ 257 | 🐛 14 | 🌐 Common Lisp | 📅 2023-10-28 - A library that allows Common Lisp code to access Python libraries. It is basically the inverse of cl4py. [MIT][200].
-  * its fork [py4cl2](https://github.com/digikar99/py4cl2) ⭐ 55 | 🐛 6 | 🌐 Common Lisp | 📅 2024-08-11, at first less stable, now more developped and faster.
+  * its fork [py4cl2](https://github.com/digikar99/py4cl2) ⭐ 55 | 🐛 6 | 🌐 Common Lisp | 📅 2026-04-24, at first less stable, now more developped and faster.
   * [py4cl2-cffi](https://github.com/digikar99/py4cl2-cffi) ⭐ 55 | 🐛 12 | 🌐 Common Lisp | 📅 2025-06-28 - CFFI based alternative to py4cl2.
     * "When capable, the CFFI approach can be a 50 times faster than py4cl2."
 * [burgled-batteries](https://github.com/pinterface/burgled-batteries) ⭐ 120 | 🐛 7 | 🌐 Common Lisp | 📅 2017-10-21 - A bridge between Python and Common Lisp. The goal is that Lisp programs can use Python libraries. Not available on Quicklisp. [MIT][200].
@@ -752,7 +753,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 
 These are bindings:
 
-* [cl-sdl2](https://github.com/lispgames/cl-sdl2) ⭐ 336 | 🐛 7 | 🌐 Common Lisp | 📅 2025-07-06 - Bindings for SDL2 using C2FFI. [Expat][14].
+* [cl-sdl2](https://github.com/lispgames/cl-sdl2) ⭐ 337 | 🐛 7 | 🌐 Common Lisp | 📅 2025-07-06 - Bindings for SDL2 using C2FFI. [Expat][14].
 * [cl-cuda](https://github.com/takagi/cl-cuda) ⭐ 305 | 🐛 27 | 🌐 Common Lisp | 📅 2021-07-18 - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
 * [cl-opengl](https://github.com/3b/cl-opengl) ⭐ 292 | 🐛 38 | 🌐 Common Lisp | 📅 2025-12-04 - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD][15].
 * [CLinch](https://github.com/BradWBeer/CLinch) ⭐ 274 | 🐛 18 | 🌐 Common Lisp | 📅 2017-04-23 - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
@@ -799,10 +800,10 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
 But that's not all.
 
 * [McCLIM](https://common-lisp.net/project/mcclim/) - An implementation of the Common Lisp Interface Manager, version II. [GNU LGPL2.1][11].
-  * example project: a Lem editor CLIM interface: [discussion](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860) ⭐ 2,940 | 🐛 76 | 🌐 Common Lisp | 📅 2026-04-22, [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
+  * example project: a Lem editor CLIM interface: [discussion](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860) ⭐ 2,941 | 🐛 78 | 🌐 Common Lisp | 📅 2026-04-25, [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
   * [Anathema](https://codeberg.org/contrapunctus/anathema), a theme library for McCLIM applications. Unlicense.
 * [ftw](https://github.com/fjames86/ftw) ⭐ 69 | 🐛 4 | 🌐 Common Lisp | 📅 2024-08-02 - A Win32 GUI library. [MIT][200].
-* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) ⭐ 67 | 🐛 9 | 🌐 Common Lisp | 📅 2023-09-15 - Wrapper over the [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,078 | 🐛 319 | 🌐 C | 📅 2026-04-23 immediate mode GUI library. [MIT][200].
+* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) ⭐ 67 | 🐛 9 | 🌐 Common Lisp | 📅 2023-09-15 - Wrapper over the [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) ⭐ 11,080 | 🐛 320 | 🌐 C | 📅 2026-04-23 immediate mode GUI library. [MIT][200].
 * [vk](https://github.com/JolifantoBambla/vk) ⭐ 56 | 🐛 2 | 🌐 Common Lisp | 📅 2023-01-23 -  Common Lisp/CFFI bindings for the Vulkan API. [MIT][200].
   * see also [cl-vulkan](https://github.com/awolven/cl-vulkan) ⭐ 55 | 🐛 3 | 🌐 Common Lisp | 📅 2026-01-27 - supports Vulkan 1.0 and 1.2, including compute pipelines. Vulkan 1.1 and 1.3 are coming soon©. MIT.
     * cl-vulkan currently supports SBCL and Clozure Common Lisp on Microsoft Windows, Linux and MacOS.
@@ -854,7 +855,7 @@ Also:
   * see also: [sbcl-librarian](https://github.com/quil-lang/sbcl-librarian) ⭐ 123 | 🐛 15 | 🌐 Common Lisp | 📅 2025-12-03 -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Tutorial](https://lispcookbook.github.io/cl-cookbook/dynamic-libraries.html).
   * [SBCL-GOODIES](https://github.com/sionescu/sbcl-goodies) ⭐ 46 | 🐛 2 | 🌐 Shell | 📅 2026-04-14 - Distributing binaries with Common Lisp and foreign libraries: libssl, libcrypto and libfixposix are statically baked in. [MIT][200].
   * [SBCL Windows builds supporting Windows 7+](https://github.com/lockie/sbcl-w7) ⭐ 6 | 🐛 0 | 🌐 NSIS | 📅 2026-03-03, packaged into NSIS installer and updated monthly (unofficial)
-  * [Nightly Windows builds of SBCL](https://github.com/olnw/sbcl-builds) ⭐ 1 | 🐛 0 | 📅 2026-04-24 -  Nightly builds of SBCL using MSYS2 UCRT64. See also [Roswell's SBCL MSI builds](https://github.com/roswell/sbcl_bin/releases/) ⭐ 10 | 🐛 0 | 🌐 Common Lisp | 📅 2026-04-12.
+  * [Nightly Windows builds of SBCL](https://github.com/olnw/sbcl-builds) ⭐ 1 | 🐛 0 | 📅 2026-04-25 -  Nightly builds of SBCL using MSYS2 UCRT64. See also [Roswell's SBCL MSI builds](https://github.com/roswell/sbcl_bin/releases/) ⭐ 10 | 🐛 0 | 🌐 Common Lisp | 📅 2026-04-12.
   * [SBCL on Chocolatey for Windows](https://community.chocolatey.org/packages/sbcl) (unofficial)
   * \[WIP, 2021] [Static Executables with SBCL](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html).
   * *tip: to enhance the default terminal experience of SBCL, see also `icl` or `cl-repl` in the Editors section below.*
@@ -906,7 +907,7 @@ See also:
 
 * 👍 [serapeum](https://github.com/ruricolist/serapeum/) ⭐ 495 | 🐛 34 | 🌐 Common Lisp | 📅 2026-03-07 - Another general-purpose utility library. [Expat][14].
 * [rutils](https://github.com/vseloved/rutils) ⭐ 263 | 🐛 20 | 🌐 Common Lisp | 📅 2024-04-30 - radical yet reasonable syntactic utilities for Common Lisp. [MIT][200].
-* [generic-cl](https://github.com/alex-gutev/generic-cl/) ⭐ 159 | 🐛 1 | 🌐 Common Lisp | 📅 2024-11-15 - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT][200].
+* [generic-cl](https://github.com/alex-gutev/generic-cl/) ⭐ 160 | 🐛 1 | 🌐 Common Lisp | 📅 2024-11-15 - Generic function interface to standard Common Lisp functions (equality, comparison, arithmetic, objects, iterator, sequences,…). [MIT][200].
   * see also the more lightweight [equals](https://github.com/karlosz/equals/) ⭐ 9 | 🐛 0 | 🌐 Common Lisp | 📅 2024-09-12 [MIT][200].
 * [arrow-macros](https://github.com/hipeta/arrow-macros) ⭐ 142 | 🐛 0 | 🌐 Common Lisp | 📅 2024-03-19 - Clojure-like threading macros. [MIT][200].
 * [hu.dwim.walker](https://github.com/hu-dwim/hu.dwim.walker) ⭐ 9 | 🐛 0 | 🌐 Common Lisp | 📅 2026-03-26 - a code walker and unwalker (aka AST parser and unparser). [BSD][15]. See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
@@ -1027,7 +1028,7 @@ See also [Rutils](https://github.com/vseloved/rutils) ⭐ 263 | 🐛 20 | 🌐 C
 
 ## Typing
 
-* 👍 [Coalton](https://github.com/coalton-lang/coalton/) ⭐ 1,565 | 🐛 138 | 🌐 Common Lisp | 📅 2026-04-22 - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
+* 👍 [Coalton](https://github.com/coalton-lang/coalton/) ⭐ 1,572 | 🐛 140 | 🌐 Common Lisp | 📅 2026-04-24 - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT][200].
   * [Slime contrib for Coalton](https://github.com/slime/slime/pull/919) ⭐ 2,045 | 🐛 284 | 🌐 Common Lisp | 📅 2026-04-21 - shows type signatures. With a short demo video.
   * [coalton-threads](https://github.com/garlic0x1/coalton-threads) ⭐ 16 | 🐛 2 | 🌐 Common Lisp | 📅 2025-02-13 - primitive thread and concurrency operations for Coalton.
   * [coalton-io](https://github.com/Jason94/coalton-io) ⭐ 14 | 🐛 2 | 🌐 Common Lisp | 📅 2026-04-18 - Functional IO interfaces. Includes terminal IO, file system IO, random variables, mutable variables, multithreading, and safely sharing state between threads.
@@ -1035,6 +1036,7 @@ See also [Rutils](https://github.com/vseloved/rutils) ⭐ 263 | 🐛 20 | 🌐 C
   * focuses on high-performance, built-in advanced mathematics, a numerical tower more powerful and extensible than Lisp's:
     * arbitrary precision floats, exact computable real arithmetic, transfinite numbers, [dual numbers](https://coalton-lang.github.io/reference/#coalton-library/math/dual-package) and [hyperdual numbers](https://coalton-lang.github.io/reference/#coalton-library/math/hyperdual-package),
   * [flime](https://github.com/fukamachi/flime) - Real-time, project-wide Coalton compilation with isolated processes for LSP integration. [MIT][200].
+  * [mine editor](https://coalton-lang.github.io/mine/) - an integrated development environment for Coalton and Common Lisp for Windows, macOS, and Linux.
   * [Lem editor mode for Coalton](https://lem-project.github.io/modes/coalton-lang/) - syntax highlighting, code completion, autodoc, interactive compilation commands (`coalton-compile-defun`, `C-c C-c`).
   * [Coalton.app playground](https://coalton.app/) - a web-based REPL for Coalton. [blog post announce](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/).
   * [smelter](https://smelter.app/) - a zero setup Coalton (and CL) scripts runner, with some batteries (JSON, HTTP, filesystem, process utilities).
@@ -1170,7 +1172,7 @@ The CLHS is available offline via an [archive](origin/ftp:/ftp.lispworks.com/pub
 ## Showcase
 
 * [awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies/) ⭐ 645 | 🐛 5 | 📅 2026-04-07
-* [cl-software](https://github.com/azzamsa/awesome-cl-software) ⭐ 382 | 🐛 2 | 📅 2026-04-08
+* [cl-software](https://github.com/azzamsa/awesome-cl-software) ⭐ 383 | 🐛 2 | 📅 2026-04-24
 * [lisp-lang.org](https://lisp-lang.org/)
 * 🔥 [lisp-screenshots.org](https://www.lisp-screenshots.org/)
 
@@ -1233,7 +1235,7 @@ See [Cliki](http://www.cliki.net/Web) for more.
 
 ## HTTP Servers
 
-* [woo](https://github.com/fukamachi/woo) ⭐ 1,372 | 🐛 27 | 🌐 Common Lisp | 📅 2026-03-21 - A fast non-blocking HTTP server on top of libev. [MIT][200].
+* [woo](https://github.com/fukamachi/woo) ⭐ 1,371 | 🐛 27 | 🌐 Common Lisp | 📅 2026-03-21 - A fast non-blocking HTTP server on top of libev. [MIT][200].
 * 👍[Clack](https://github.com/fukamachi/clack) ⭐ 1,102 | 🐛 31 | 🌐 Common Lisp | 📅 2026-02-10 - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
 * [wookie](https://github.com/orthecreedence/wookie) ⭐ 195 | 🐛 12 | 🌐 Common Lisp | 📅 2023-01-31 - Asynchronous HTTP server. [Expat][14].
 * ⭐ [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
@@ -1591,7 +1593,7 @@ Parsing email addresses:
 * [cl-geometry](https://github.com/Ramarren/cl-geometry/) ⭐ 51 | 🐛 1 | 🌐 Common Lisp | 📅 2016-02-01 - a system for two dimensional computational geometry for Common Lisp. [MIT][200].
 * [Xecto](https://github.com/pkhuong/Xecto) ⭐ 47 | 🐛 0 | 🌐 Common Lisp | 📅 2022-02-05 - A library for regular array parallelism. [3-clause BSD][15].
 * [array-operations](https://github.com/bendudson/array-operations) ⚠️ Archived - a collection of functions and macros for manipulating Common Lisp arrays and performing numerical calculations with them. [MIT][200].
-* [dense-arrays](https://github.com/digikar99/dense-arrays) ⭐ 27 | 🐛 5 | 🌐 Common Lisp | 📅 2025-04-08 -  Numpy like array object for common lisp. MIT.
+* [dense-arrays](https://github.com/digikar99/dense-arrays) ⭐ 27 | 🐛 5 | 🌐 Common Lisp | 📅 2026-04-24 -  Numpy like array object for common lisp. MIT.
 * [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
 
 Planning solvers:
@@ -1659,12 +1661,12 @@ See also the chart facilities of IUP and ltk-plotchart (GUI section).
 * [lfarm](https://github.com/lmj/lfarm) ⭐ 111 | 🐛 1 | 🌐 Common Lisp | 📅 2015-06-03 - distributing work across machines (on top of lparallel and usocket). [BSD\_3Clause][15]
 * [cl-coroutine](https://github.com/takagi/cl-coroutine) ⭐ 70 | 🐛 0 | 🌐 Common Lisp | 📅 2016-09-22 - a coroutine library. It uses the CL-CONT continuations library in its implementation. [MIT][200].
 * [swank-crew](https://github.com/brown/swank-crew) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2026-03-31 - distributed computation framework implemented using Swank Client. [BSD\_3Clause][15].
-* ⭐ [lparallel](https://github.com/sharplispers/lparallel) ⭐ 43 | 🐛 5 | 🌐 Common Lisp | 📅 2025-08-21 - A library for parallel programming. [3-clause BSD][15]. Originally on [lmj/lparallel](https://github.com/lmj/lparallel) ⭐ 262 | 🐛 23 | 🌐 Common Lisp | 📅 2022-11-03.
+* ⭐ [lparallel](https://github.com/sharplispers/lparallel) ⭐ 44 | 🐛 6 | 🌐 Common Lisp | 📅 2025-08-21 - A library for parallel programming. [3-clause BSD][15]. Originally on [lmj/lparallel](https://github.com/lmj/lparallel) ⭐ 261 | 🐛 22 | 🌐 Common Lisp | 📅 2022-11-03.
   * with [good documentation](https://sharplispers.github.io/lparallel/)
 * [calispel](https://github.com/hawkir/calispel) ⭐ 32 | 🐛 1 | 🌐 Common Lisp | 📅 2017-08-01 - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes)-like channels for common lisp. With blocking, optionally buffered channels and a "CSP select" statement. ISC-style.
-  * "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion](https://github.com/CodyReichert/awesome-cl/issues/290) ⭐ 2,927 | 🐛 46 | 🌐 Makefile | 📅 2026-04-16
+  * "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion](https://github.com/CodyReichert/awesome-cl/issues/290) ⭐ 2,927 | 🐛 46 | 🌐 Makefile | 📅 2026-04-24
 * [Moira](https://github.com/TBRSS/moira) ⭐ 30 | 🐛 0 | 🌐 Common Lisp | 📅 2023-11-23 -  Monitor and restart background threads. In-lisp process supervisor. [MIT][200].
-* [cl-gearman](https://github.com/taksatou/cl-gearman) ⭐ 22 | 🐛 0 | 🌐 Common Lisp | 📅 2021-09-21 - a library for the [Gearman](https://github.com/gearman/gearmand/) ⭐ 758 | 🐛 90 | 🌐 C++ | 📅 2026-04-20 distributed job system. [LLGPL][8].
+* [cl-gearman](https://github.com/taksatou/cl-gearman) ⭐ 22 | 🐛 0 | 🌐 Common Lisp | 📅 2021-09-21 - a library for the [Gearman](https://github.com/gearman/gearmand/) ⭐ 759 | 🐛 90 | 🌐 C++ | 📅 2026-04-20 distributed job system. [LLGPL][8].
 * [cl-cancel](https://github.com/atgreen/cl-cancel) ⭐ 5 | 🐛 0 | 🌐 Common Lisp | 📅 2026-02-06 -  Cancellation propagation library for Common Lisp with deadlines and timeouts. MIT. *With LLM*.
 * ⭐ [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/) - Portable, shared-state concurrency. [Expat][14].
 * [trivial-monitored-thread](https://gitlab.com/ediethelm/trivial-monitored-thread) -
@@ -1765,7 +1767,7 @@ do better? We can always build a binary.*
   * mouse support, 60fps rendering, deploy anywhere via SSH or TTYD.
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/) ⭐ 19 | 🐛 0 | 🌐 Common Lisp | 📅 2021-11-25 - progress bars, just like in Quicklisp ! [MIT][200].
   * and [progressons](https://github.com/vindarel/progressons) ⭐ 14 | 🐛 2 | 🌐 Common Lisp | 📅 2025-01-02, a progress bar on one line, for real an dumb terminals. MIT.
-* [cl-termbox2](https://github.com/garlic0x1/cl-termbox2) ⭐ 11 | 🐛 0 | 🌐 Common Lisp | 📅 2024-05-12 - [Termbox2](https://github.com/termbox/termbox2) ⭐ 701 | 🐛 14 | 🌐 C | 📅 2026-02-08 bindings.
+* [cl-termbox2](https://github.com/garlic0x1/cl-termbox2) ⭐ 11 | 🐛 0 | 🌐 Common Lisp | 📅 2024-05-12 - [Termbox2](https://github.com/termbox/termbox2) ⭐ 702 | 🐛 14 | 🌐 C | 📅 2026-02-08 bindings.
   * "termbox2 is a terminal I/O library for creating TUIs. It is a slim alternative to the ubiquitous ncurses library. Unlike ncurses, it has a tighter API, and comes with built-in support for popular terminals if a terminfo db is not present on the system."
 * [Linedit](https://common-lisp.net/project/linedit) - Readline-style
   library that provides customizable line-editing
@@ -1831,7 +1833,7 @@ This contains plugins and other goodies for various text editors.
 ## Emacs
 
 * ⭐ [Slime](https://github.com/slime/slime) ⭐ 2,045 | 🐛 284 | 🌐 Common Lisp | 📅 2026-04-21 - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
-* [Sly](https://github.com/joaotavora/sly) ⭐ 1,408 | 🐛 183 | 🌐 Common Lisp | 📅 2026-04-02 - SLY is a fork of SLIME and contains multiple changes and new features, such as Sly stickers.
+* [Sly](https://github.com/joaotavora/sly) ⭐ 1,407 | 🐛 183 | 🌐 Common Lisp | 📅 2026-04-02 - SLY is a fork of SLIME and contains multiple changes and new features, such as Sly stickers.
   * *no C-c C-y shortcut aka slime-call-defun equivalent!*
 
 Starter kits:
@@ -1879,7 +1881,7 @@ Tools:
 
 ## Lem
 
-* [Lem](https://github.com/lem-project/lem) ⭐ 2,940 | 🐛 76 | 🌐 Common Lisp | 📅 2026-04-22 - a general-purpose development environment extensible in Common Lisp.[MIT][200].
+* [Lem](https://github.com/lem-project/lem) ⭐ 2,941 | 🐛 78 | 🌐 Common Lisp | 📅 2026-04-25 - a general-purpose development environment extensible in Common Lisp.[MIT][200].
   * ncurses and webview frontends.
   * built-in LSP client.
   * ready to use, Emacs-like, Slime-based editor tailored for Common Lisp out of the box.
@@ -1894,6 +1896,10 @@ Tools:
 * [lw-plugins](https://github.com/apr3vau/lw-plugins) ⭐ 33 | 🐛 0 | 🌐 Common Lisp | 📅 2026-02-16 -  LispWorks Plugins by April & May. OBSD.
   * terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 * [lw-rich-text](https://codeberg.org/fourier/lw-rich-text/) - LispWorks panes with support for HTML-like markup.
+
+## Mine - single-download beginner friendly IDE for Common Lisp and Coalton
+
+* [mine](https://coalton-lang.github.io/mine/) - an integrated development environment for Coalton and Common Lisp for Windows, macOS, and Linux.
 
 ## Atom, Pulsar
 
@@ -1913,7 +1919,7 @@ Tools:
 
 ## VSCode
 
-* [alive](https://github.com/nobody-famous/alive) ⭐ 257 | 🐛 45 | 🌐 TypeScript | 📅 2026-04-23 -  Common Lisp Extension for VSCode. Public domain.
+* [alive](https://github.com/nobody-famous/alive) ⭐ 257 | 🐛 45 | 🌐 TypeScript | 📅 2026-04-25 -  Common Lisp Extension for VSCode. Public domain.
   * see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 * [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub](https://github.com/ailisp/commonlisp-vscode/) ⭐ 39 | 🐛 15 | 🌐 TypeScript | 📅 2021-06-11.
 * [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
@@ -2099,8 +2105,8 @@ See also the book [Calendrical calculations](https://www.cambridge.org/us/academ
 
 ## Data validation
 
-* [sanity-clause](https://github.com/fisxoj/sanity-clause) ⭐ 51 | 🐛 8 | 🌐 Common Lisp | 📅 2021-07-04 - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL][8].
-* [clavier](https://github.com/mmontone/clavier) ⭐ 26 | 🐛 0 | 🌐 Common Lisp | 📅 2025-04-17 - General purpose validation library for Common Lisp. [MIT][200].
+* [sanity-clause](https://github.com/fisxoj/sanity-clause) ⭐ 51 | 🐛 8 | 🌐 Common Lisp | 📅 2026-04-24 - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL][8].
+* [clavier](https://github.com/mmontone/clavier) ⭐ 26 | 🐛 1 | 🌐 Common Lisp | 📅 2025-04-17 - General purpose validation library for Common Lisp. [MIT][200].
 * [json-schema](https://github.com/fisxoj/json-schema) ⭐ 17 | 🐛 4 | 🌐 Common Lisp | 📅 2024-06-28 - A library for validating data against schemas of drafts 4, 6, 7, and 2019-09 of the [JSON Schema](https://json-schema.org/) standard. [LLGPL][8].
 * [cl-semver](https://github.com/cldm/cl-semver) ⭐ 15 | 🐛 1 | 🌐 Common Lisp | 📅 2023-03-18 - Implementation of the [Semantic Versioning](https://semver.org) Specification. [MIT][200]
 * [ratify](https://codeberg.org/shinmera/ratify) - A collection of utilities to ratify, validate and parse inputs. [zlib][33].
@@ -2115,7 +2121,7 @@ Common Lisp implementations have plenty of debugging tools. See: [Cookbook / deb
 * [repl-utilities](https://github.com/m-n/repl-utilities) ⭐ 50 | 🐛 6 | 🌐 Common Lisp | 📅 2021-02-15 - Ease
   common tasks at the REPL (print documentation, print external symbols,
   call hooks when loading a package,…). [BSD\_2Clause][17].
-* [journal](https://github.com/melisgl/journal) ⭐ 43 | 🐛 0 | 🌐 Common Lisp | 📅 2026-03-17 - a library for logging, tracing, record-and-replay testing and persistence. MIT.
+* [journal](https://github.com/melisgl/journal) ⭐ 43 | 🐛 0 | 🌐 Common Lisp | 📅 2026-04-24 - a library for logging, tracing, record-and-replay testing and persistence. MIT.
 * [supertrace](https://github.com/fukamachi/supertrace) ⭐ 33 | 🐛 0 | 🌐 Common Lisp | 📅 2020-03-06 - Superior Common Lisp `trace` functionality for debugging/profiling. Trace many functions at once, use before and after hooks. [BSD\_2Clause][17].
 * [flight-recorder](https://github.com/vseloved/flight-recorder) ⭐ 17 | 🐛 0 | 🌐 Common Lisp | 📅 2018-10-09 - a robust REPL history facility.
 * [brake](https://github.com/varjagg/brake) ⭐ 13 | 🐛 0 | 🌐 Common Lisp | 📅 2024-11-05 -  An extended breakpoint facility for Common Lisp. [MIT][200].
@@ -2135,7 +2141,7 @@ and also:
 ## Documentation builders
 
 * [Codex](https://github.com/CommonDoc/codex) ⚠️ Archived - A beautiful documentation system for Common Lisp. [MIT][200].
-* [mgl-pax](https://github.com/melisgl/mgl-pax) ⭐ 88 | 🐛 5 | 🌐 Common Lisp | 📅 2026-04-15 - Exploratory
+* [mgl-pax](https://github.com/melisgl/mgl-pax) ⭐ 88 | 🐛 5 | 🌐 Common Lisp | 📅 2026-04-24 - Exploratory
   programming environment and documentation generator. one may
   accomplish similar effects as with Literate Programming, but
   documentation is generated from code, not vice versa. Code is first,
@@ -2258,7 +2264,7 @@ See also: [extensive comparison of logging libraries](https://sabracrolleton.git
 
 ## Markdown
 
-* [3bmd](https://github.com/3b/3bmd) ⭐ 87 | 🐛 14 | 🌐 Common Lisp | 📅 2025-11-21 - a markdown -> html converter. [MIT][200].
+* [3bmd](https://github.com/3b/3bmd) ⭐ 88 | 🐛 14 | 🌐 Common Lisp | 📅 2025-11-21 - a markdown -> html converter. [MIT][200].
 
 ## Package declarations
 
